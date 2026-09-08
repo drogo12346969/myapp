@@ -1,1 +1,10 @@
-
+{
+  "blacklisted_keys": [
+    {
+      "key": "GHOST-BLOCKED-KEY-1234",
+      "reason": "You have been blocked by administrator. Contact administrator.",
+      "blocked_at": "2026-09-08"
+    }
+  ],
+  "default_block_message": "You have been blocked by administrator. Contact administrator."
+}
