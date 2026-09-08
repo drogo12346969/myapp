@@ -1,7 +1,7 @@
 {
   "latest_version_code": 1,
-  "latest_version_name": "1.0.1",
-  "force_update": true,
+  "latest_version_name": "1.0.0",
+  "force_update": false,
   "title": "Update Required",
   "message": "A critical update is available. You must update to continue using Ghostrix.",
   "apk_url": "https://github.com/drogo12346969/myapp/raw/main/Ghostrix.apk",
