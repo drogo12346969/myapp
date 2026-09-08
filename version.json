@@ -4,7 +4,7 @@
   "force_update": true,
   "title": "Update Required",
   "message": "A critical update is available. You must update to continue using Ghostrix.",
-  "apk_url": "https://github.com/drogo12346969/myapp/raw/main/Ghostrix.apk",
+  "apk_url": "https://github.com/drogo12346969/myapp/raw/main/Ghost.apk",
   "release_notes": [
     "Initial secure release of Ghostrix",
     "KeyAuth integration & Anti-tamper engine"
