@@ -2,5 +2,6 @@
   "active": true,
   "id": "notice_001",
   "title": "Welcome to Ghostrix!",
-  "dismissible": true
+  "dismissible": true,
+  "message": "વાંચવાનું કરજે, સોદીના!!"
 }
