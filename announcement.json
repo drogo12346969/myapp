@@ -2,8 +2,5 @@
   "active": true,
   "id": "notice_001",
   "title": "Welcome to Ghostrix!",
-  "message": "Welcome to Ghostrix Course Library. For key activation or help, contact support.",
-  "button_text": "Support",
-  "button_url": "https://t.me/your_telegram_link",
   "dismissible": true
 }
