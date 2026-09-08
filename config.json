@@ -1,6 +1,6 @@
 {
   "maintenance": false,
-  "maintenance_message": "Ghost is currently undergoing scheduled maintenance & server upgrades. We will be back online shortly!",
+  "maintenance_message": "Ghost is currently undergoing scheduled maintenance & server upgrades. We will be back online shortly",
   "telegram_support": "https://t.me/your_telegram_channel",
   "courses": [
     {
