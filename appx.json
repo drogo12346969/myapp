@@ -7,14 +7,20 @@
       "name": "Dhyey Live",
       "slug": "dhyeylive",
       "api": "https://dhyeyliveappapi.akamai.net.in",
-      "description": "GPSC & Competitive Exams"
+      "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjEwMTc0NiIsInRpbWVzdGFtcCI6MTc4ODk0MTI1NywiaXZfdmVyIjoxLCJzZXNzaW9uIjoiZXlKMGVYQWlPaUpLVjFRaUxDSmhiR2NpT2lKSVV6STFOaUo5LmV5SnBaQ0k2SWpFd01UYzBOaUlzSW1WdFlXbHNJam9pWkdGeWMyaGhibTFoYkd0cGVXRXlOVUJuYldGcGJDNWpiMjBpTENKdVlXMWxJam9pSWl3aWRHVnVZVzUwVkhsd1pTSTZJblZ6WlhJaUxDSjBaVzVoYm5ST1lXMWxJam9pWkdoNVpYbHNhWFpsWVhCd1gyUmlJaXdpZEdWdVlXNTBTV1FpT2lJaUxDSmthWE53YjNOaFlteGxJanBtWVd4elpYMC44T3FBNk5vSVVseG92STAxLUFwR3VRWHZhN2JpNngwdnd4TTVYSmNYazRZIn0.pxUJfFLCS9cOEB3Gnot3XTHXftPLxYRFOArNeeS_fXs",
+      "userid": "101746",
+      "description": "GPSC, UPSC & Competitive Exams",
+      "icon": "🎓"
     },
     {
       "id": "bhainskipathshala",
       "name": "Bhains Ki Pathshala",
       "slug": "bhainskipathshala",
       "api": "https://bhainskipathshalaapi.akamai.net.in",
-      "description": "General Studies & Classes"
+      "token": "",
+      "userid": "-2",
+      "description": "General Studies & Competitive Classes",
+      "icon": "🐃"
     }
   ]
 }
