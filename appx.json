@@ -1,1 +1,20 @@
-
+{
+  "version": 1,
+  "default_proxy": "https://newlcf.vercel.app/proxy?url=",
+  "academies": [
+    {
+      "id": "dhyeylive",
+      "name": "Dhyey Live",
+      "slug": "dhyeylive",
+      "api": "https://dhyeyliveappapi.akamai.net.in",
+      "description": "GPSC & Competitive Exams"
+    },
+    {
+      "id": "bhainskipathshala",
+      "name": "Bhains Ki Pathshala",
+      "slug": "bhainskipathshala",
+      "api": "https://bhainskipathshalaapi.akamai.net.in",
+      "description": "General Studies & Classes"
+    }
+  ]
+}
