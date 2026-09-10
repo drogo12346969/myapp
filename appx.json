@@ -9,7 +9,7 @@
       "api": "https://dhyeyliveappapi.akamai.net.in",
       "token": ""
       "userid": "-2",
-      "description": "GPSC, UPSC & Competitive Exams",
+      "description": "GPSC & Competitive Exams",
       "icon": "🎓"
     },
     {
@@ -19,7 +19,7 @@
       "api": "https://bhainskipathshalaapi.akamai.net.in",
       "token": "",
       "userid": "-2",
-      "description": "General Studies & Competitive Classes",
+      "description": "Maths & reasoning Classes",
       "icon": "🐃"
     }
   ]
