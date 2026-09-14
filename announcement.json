@@ -1,16 +1,7 @@
-
-  {
-    "active": true,
-    "id": "notice_001",
-    "title": "⚠️ Important",
-    "dismissible": true,
-    "message": "એપ્લિકેશન hide અને લોક લગાવી દેવો."
-  }
-  {
-    "active": true,
-    "id": "notice_002",
-    "title": "...",
-    "dismissible": true,
-    "message": "🔐"
-  }
-
+{
+  "active": true,
+  "id": "notice_001",
+  "title": "⚠️ Important",
+  "dismissible": true,
+  "message": "એપ્લિકેશન hide અને લોક લગાવી દેવો."
+}
