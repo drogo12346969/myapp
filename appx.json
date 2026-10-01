@@ -12,16 +12,7 @@
       "description": "GPSC & Competitive Exams",
       "icon": "🎓"
     },
-    {
-      "id": "bhainskipathshala",
-      "name": "Bhains Ki Pathshala",
-      "slug": "bhainskipathshala",
-      "api": "https://bhainskipathshalaapi.akamai.net.in",
-      "token": "",
-      "userid": "-2",
-      "description": "Maths & reasoning Classes",
-      "icon": "🐃"
-    },
+    
     {
       "id": "nirmitacadmy",
       "name": "Nirmit Academy",
