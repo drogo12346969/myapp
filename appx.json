@@ -11,17 +11,8 @@
       "userid": "-2",
       "description": "GPSC & Competitive Exams",
       "icon": "🎓"
-    },
-    
-    {
-      "id": "nirmitacadmy",
-      "name": "Nirmit Academy",
-      "slug": "nirmitacadmy",
-      "api": "https://nimratacademyapi.akamai.net.in",
-      "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjI4MTAwIiwidGltZXN0YW1wIjoxNzg5NjEyODgwLCJpdl92ZXIiOjE2LCJzZXNzaW9uIjoiZXlKMGVYQWlPaUpLVjFRaUxDSmhiR2NpT2lKSVV6STFOaUo5LmV5SnBaQ0k2SWpJNE1UQXdJaXdpWlcxaGFXd2lPaUp0WVd4cmFYbGhZWFJwYzJoQVoyMWhhV3d1WTI5dElpd2libUZ0WlNJNklrRlVTVk5JUzFWTlFWSWlMQ0owWlc1aGJuUlVlWEJsSWpvaWRYTmxjaUlzSW5SbGJtRnVkRTVoYldVaU9pSnVhVzF5WVhSaFkyRmtaVzE1WDJSaUlpd2lkR1Z1WVc1MFNXUWlPaUlpTENKa2FYTndiM05oWW14bElqcG1ZV3h6WlgwLk11OWE0TnhlYmhpT242VVhXQnNXSnBjVFUtNUtIRmVBazdIRVN6NkdvemsifQ.pvIQSWimuRZZUMP4OQR9xrRGp1WtTpu0x21WUBKP1BU"
-      "userid": "-2",
-      "description": "Mains Exams",
-      "icon": "🇳"
     }
+    
+
   ]
 }
